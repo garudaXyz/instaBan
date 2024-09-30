@@ -19,15 +19,20 @@ Before using the script, ensure that you have the following:
    Open Termux and run the following commands to set up your environment:
 
 ```termux-setup-storage```
+
 ```pkg update && pkg upgrade```
+
 ```pkg install python```
+
 ```pip install aiohttp```
+
 
 # Clone the repository:
 
 Clone this script using the following command:
 
 ```https://github.com/garudaXyz/instaBan.git```
+
 ```cd instaBan```
 
 # Run the script:
