@@ -26,6 +26,11 @@ Before using the script, ensure that you have the following:
 
 ```pip install aiohttp```
 
+```pip install termcolor```
+
+``` pip install shutil```
+
+``` pip install shutil```
 
 # Clone the repository:
 
@@ -38,7 +43,7 @@ Clone this script using the following command:
 # Run the script:
 Now, run the script to initiate the reporting process:
 
-```python baninsta-obf.py``` or ```python3 baninsta-obf.py.py```
+```python main.py``` or ```python3 main.py```
 
 # Input Instagram URL:
 You will be prompted to enter the Instagram profile URL. Enter the valid URL of the account you want to "ban."
