@@ -8,15 +8,20 @@ This script allows you to send a **report** to Instagram using just the profile 
 
 Before using the script, ensure that you have the following:
 
-- **termux-setup-storage** for using the proxies efficiently
 - **Termux** installed on your Android device.
-- **Python 3.7+** installed in Termux.
-- **aiohttp** package for Python.
 
+[Download Termux from Google Play Store](https://play.google.com/store/apps/details?id=com.termux&hl=en_US)
+
+
+- **termux-setup-storage** for using the proxies efficiently
+  
+- **Python 3.7+** installed in Termux.
+ 
 ## Installation Steps
 
 1. **Install Python and required libraries**:  
    Open Termux and run the following commands to set up your environment:
+
 
 ```termux-setup-storage```
 
@@ -24,13 +29,9 @@ Before using the script, ensure that you have the following:
 
 ```pkg install python```
 
-```pip install aiohttp```
-
-```pip install termcolor```
-
 ``` pip install shutil```
 
-``` pip install shutil```
+``` pkg install python ffmpeg ```
 
 # Clone the repository:
 
