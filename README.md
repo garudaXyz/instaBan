@@ -31,7 +31,7 @@ Before using the script, ensure that you have the following:
 
 ``` pip install shutil```
 
-``` pkg install python ffmpeg ```
+``` pip install ffmpeg ```
 
 # Clone the repository:
 
